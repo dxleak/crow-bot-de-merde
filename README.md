@@ -1,2 +1,1 @@
-# crow-bot-de-merde
-https://discord.gg/UY6TcBTjBS for help
+🌊 Geass bot est un bot qui permet à la fois d'assurer la sécurité du serveur et exécuter des commandes funs !
